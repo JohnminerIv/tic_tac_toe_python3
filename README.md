@@ -4,4 +4,4 @@ This is a command line tic tac toe game. I don't really plan on updating this mu
 
 Usage:
 git clone \<this repo\>\
-python3 
+python3 tic_tac_toe.py
